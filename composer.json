@@ -15,8 +15,8 @@
     }
   ],
   "require": {
-    "php": "^7.2",
-    "illuminate/view": "^7.10",
+    "php": "^7.3|^8.0",
+    "illuminate/view": "8.*",
     "soberwp/controller": "^2.1"
   },
   "require-dev": {
